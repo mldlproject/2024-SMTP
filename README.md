@@ -9,7 +9,6 @@ scikit-learn
 ```
 
 ### Usage example
-Download all dataset from this [link](https://drive.google.com/file/d/1h0Hdi4fwiivN2IjSHIxv6xjqtUYkyrOo/view)
 
 **Encode data**
 ```sh
