@@ -10,6 +10,11 @@ scikit-learn
 
 ### Usage example
 
+**All Data for training Encoder**
+```sh
+cd ./dataset/raw/dataset.csv
+```
+
 **Encode data**
 ```sh
 cd ./loader.py
